@@ -1,22 +1,18 @@
 body {
-font-size: 40px;
-text-align: justify;
-background: lightgrey;
-color: darkred;
+	font-size: 40px;
+	text-align: justify;
+	background: lightgrey;
+	color: darkred;
 }
 
-
-
-h1{
-color: 81b29a;
-font-size: 24px;
-text-align: center;
+h1 {
+	color: 81b29a;
+	font-size: 24px;
+	text-align: center;
 }
-
 
 .banner-picture {
 	height: 300px;
-
 }
 
 .profile-picture {
@@ -24,27 +20,25 @@ text-align: center;
 	width: 500px;
 }
 
-h2{
+h2 {
 	text-align: center;
 	color: orangered;
 	font-size: xx-large;
-
 }
 
-img{
-border-radius: 40%;
-height: 200px;
-box-shadow: 20px 20px 30px darkgrey;
-
+img {
+	border-radius: 40%;
+	height: 200px;
+	box-shadow: 20px 20px 30px darkgrey;
 }
 
-p{
+p{ 
 	text-align: center;
 	size: initial;
 	font-size: x-large;
 }
 
-.div1{
+.div1 {
 	border: solid red 4px;
 	margin: 100px;
 	padding: 70px;
@@ -52,18 +46,18 @@ p{
 	text-align: center;
 }
 
-.div2{
+.div2 {
 	border: solid red 4px;
 	margin: 100px;
 	padding: 70px;
 	background: white;
 }
-.div3{
+.div3 {
 	text-align: center;
 	font-size: x-large;
 }
 
-a{
+a {
 	border: solid black ;
 	margin: 30px;
 	padding: 20px;
